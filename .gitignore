@@ -2,3 +2,5 @@ docs/*.pdf
 docs/*.md
 docs/**/**
 .idea*
+notebooks/**
+
